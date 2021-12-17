@@ -2,4 +2,4 @@ Below are the installation instructions
 =======================================
 1. Setup IAM role
 2. Setup SASL SCRAM role
-3. Setup ACL Authentication
+3. Setup ACL Authentication -- This step is not needed
