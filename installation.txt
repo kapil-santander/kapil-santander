@@ -2,3 +2,4 @@ Below are the installation instructions
 =======================================
 1. Setup IAM role
 2. Setup SASL SCRAM role
+
